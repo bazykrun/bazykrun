@@ -24,9 +24,6 @@
 ---
 
 ### 📫 Связь
-[<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />](ТВОЯ_ССЫЛКА_ТУТ)
+[<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](ТВОЯ_ССЫЛКА_ТУТ)
 
----
-
-*«Keep it simple, build it fast.»*
