@@ -2,7 +2,7 @@
 
 ### Backend Go Developer
 
-Я начал свой путь в программировании в 2023 году с **Python**, где освоил базовую логику и скриптинг. Позже я осознанно перешел на **Go**, выбрав его за строгость, производительность и работу с многопоточностью.
+Я начал свой путь в программировании с **Python**, где освоил Backend python. Позже я осознанно перешел на **Go**, выбрав его за строгость, производительность и работу с многопоточностью.
 
 ---
 
@@ -28,7 +28,7 @@ Go-разработчики создают «двигатели» под кап�
 
 **Databases (Industry Standard for Go):**
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) (Реляционные данные)
-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) (Кэширование и очереди — мастхэв для Go)
+- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) (Кэширование и очереди)
 
 **Foundations:**
 - Компьютерные сети (TCP/IP, HTTP/gRPC)
@@ -43,4 +43,4 @@ Go-разработчики создают «двигатели» под кап�
 - **Instagram:** [@bazykrun](https://www.instagram.com/bazykrun)
 
 ---
-*«Focus on the logic, the rest is just syntax.»*
+
