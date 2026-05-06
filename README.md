@@ -38,9 +38,9 @@ Go-разработчики создают «двигатели» под кап�
 
 ### 📫 Как со мной связаться:
 
-- **Email:** [ТВОЯ_ПОЧТА@example.com](mailto:bazykrun@gmail.com)
-- **Telegram:** [@ТВОЙ_НИК](https://t.me/bazykrun)
-- **Instagram:** [@ТВОЙ_НИК](https://www.instagram.com/bazykrun)
+- **Email:** [bazykrun@gmail.com](mailto:bazykrun@gmail.com)
+- **Telegram:** [@bazykrun](https://t.me/bazykrun)
+- **Instagram:** [@bazykrun](https://www.instagram.com/bazykrun)
 
 ---
 *«Focus on the logic, the rest is just syntax.»*
