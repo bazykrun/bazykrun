@@ -1,4 +1,4 @@
-[![Backend Go Developer, Hello i'm bazykrun](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Hello%20i%27m%20bazykrun&title=Backend%20Go%20Developer)](https://pimp-my-readme-next.vercel.app)
+[![Hey, I'm Bazykrun](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f419&text=Hey%2C%20I%27m%20Bazykrun)](https://pimp-my-readme-next.vercel.app)
 ![Snake](https://raw.githubusercontent.com/bazykrun/bazykrun/output/github-snake-dark.svg)
 ### Middle Go Developer | Backend & System Tools
 
