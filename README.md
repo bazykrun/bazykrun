@@ -1,5 +1,4 @@
-[![Hey, I'm Bazykrun](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f419&text=Hey%2C%20I%27m%20Bazykrun)](https://pimp-my-readme-next.vercel.app)
-![Snake](https://raw.githubusercontent.com/bazykrun/bazykrun/output/github-snake-dark.svg)
+
 ### Middle Go Developer | Backend & System Tools
 
 Я специализируюсь на создании производительных бэкенд-решений и системных утилит на **Go**. Мой фокус — архитектура микросервисов, CLI-инструменты и работа с высоконагруженными системами.
@@ -32,7 +31,6 @@
 ---
 
 ### 📈 Статистика:
-![bazykrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=bazykrun&show_icons=true&theme=tokyonight)
 ![Snake](https://raw.githubusercontent.com/bazykrun/bazykrun/output/github-snake-dark.svg)
 
 ---
