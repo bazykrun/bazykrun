@@ -1,5 +1,5 @@
 # Привет! Я bazykrun 👋
-![Snake animation](https://github.com/bazykrun/bazykrun/blob/output/github-snake.svg)
+![Snake](https://raw.githubusercontent.com/bazykrun/bazykrun/output/github-snake-dark.svg)
 ### Middle Go Developer | Backend & System Tools
 
 Я специализируюсь на создании производительных бэкенд-решений и системных утилит на **Go**. Мой фокус — архитектура микросервисов, CLI-инструменты и работа с высоконагруженными системами.
