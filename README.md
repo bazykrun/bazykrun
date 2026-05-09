@@ -1,46 +1,43 @@
 # Привет! Я bazykrun 👋
 
-### Backend Go Developer
+### Middle Go Developer | Backend & System Tools
 
-Я начал свой путь в программировании с **Python**, где освоил Backend python. Позже я осознанно перешел на **Go**, выбрав его за строгость, производительность и работу с многопоточностью.
-
----
-
-### 🚀 Чем я занимаюсь (как Go-разработчик):
-Go-разработчики создают «двигатели» под капотом современных приложений. Мой фокус включает:
-- **Разработку высоконагруженных микросервисов**, способных обрабатывать тысячи запросов в секунду.
-- **Проектирование API** и интеграцию сервисов.
-- **Оптимизацию производительности** и эффективное управление ресурсами (памятью и CPU).
-- **Оркестрацию данных** между сервисами и хранилищами.
+Я специализируюсь на создании производительных бэкенд-решений и системных утилит на **Go**. Мой фокус — архитектура микросервисов, CLI-инструменты и работа с высоконагруженными системами.
 
 ---
 
-### 🛠 Мой технологический стек:
-
-**Languages & Core:**
-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) (Основной стек)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) (С чего всё начиналось)
-
-**Infrastructure & Tools:**
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) (Работа в терминале, Bash)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) (Контейнеризация приложений)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) (Контроль версий)
-
-**Databases (Industry Standard for Go):**
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) (Реляционные данные)
-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) (Кэширование и очереди)
-
-**Foundations:**
-- Компьютерные сети (TCP/IP, HTTP/gRPC)
-- Алгоритмы и структуры данных
+### 🚀 Ключевые компетенции:
+- **Highload Backend:** Проектирование и разработка микросервисов на Go, работа с конкурентностью (Goroutines, Channels) и оптимизация под высокие нагрузки.
+- **CLI Development:** Создание эффективных консольных приложений и инструментов автоматизации.
+- **Database Engineering:** Проектирование сложных схем данных и оптимизация запросов в **PostgreSQL**.
+- **System Thinking:** Глубокое понимание работы **Linux**, управления процессами и ресурсами системы.
 
 ---
 
-### 📫 Как со мной связаться:
+### 🛠 Технологический стек:
 
-- **Email:** [bazykrun@gmail.com](mailto:bazykrun@gmail.com)
+**Languages & Backend:**
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) **Golang** (основной язык)
+- **Protobuf / gRPC** (межсервисное взаимодействие)
+
+**Infrastructure & Environment:**
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) **Linux / Bash** (системное администрирование)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker & Docker Compose**
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) **Git / GitHub Actions**
+
+**Databases:**
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) **PostgreSQL** (SQL, миграции, оптимизация)
+- **Redis** (кэширование и очереди)
+
+---
+
+### 📈 Статистика:
+![bazykrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=bazykrun&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Контакты для связи:
+
 - **Telegram:** [@bazykrun](https://t.me/bazykrun)
+- **Email:** [bazykrun@gmail.com](mailto:bazykrun@gmail.com)
 - **Instagram:** [@bazykrun](https://www.instagram.com/bazykrun)
-
----
-
