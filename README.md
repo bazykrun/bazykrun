@@ -33,6 +33,7 @@
 
 ### 📈 Статистика:
 ![bazykrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=bazykrun&show_icons=true&theme=tokyonight)
+![Snake](https://raw.githubusercontent.com/bazykrun/bazykrun/output/github-snake-dark.svg)
 
 ---
 
